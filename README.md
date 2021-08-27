@@ -24,8 +24,8 @@ not to be confused with the social calamities known as _Web Guided Projects_.
 - Templates: Jinja2
 - Structure: HTML5
 - Styling: CSS3
-- Database: MongoDB or PostgreSQL
-- Graphs: Altair or Plotly
+- Database: MongoDB
+- Graphs: Altair
 - Machine Learning: Scikit Learn
 - Hosting: Heroku
 - RNG Engine: _TOP SECRET - LINK REDACTED_
