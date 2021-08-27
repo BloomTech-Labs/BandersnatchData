@@ -12,8 +12,9 @@ into a jam, he can pull you out. He's one of our most loyal agents, trust him.
 
 Your first task is to erase all traces of April Fairweather, commit to owning
 this role and put your name in their place on the home page. See
-`app/templates/index.html`. Await further orders in the guise of _DS Guided Projects_, 
-not to be confused with the social calamities known as _Web Guided Projects_.
+`app/templates/index.html`. Then, await further orders in the guise of 
+_DS Guided Projects_, not to be confused with the social calamities known as 
+_Web Guided Projects_.
 
 ~Dr. B, MonsterFactory inc. CEO
 
@@ -30,6 +31,13 @@ not to be confused with the social calamities known as _Web Guided Projects_.
 - Hosting: Heroku
 - RNG Engine: _TOP SECRET - LINK REDACTED_
 - Random Monsters: _TOP SECRET - LINK REDACTED_
+
+
+### Features
+- Data Creation
+- Data Viewing
+- Model Training
+- Predictions
 
 
 ### MonsterLab: Monster Spec 42
