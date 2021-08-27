@@ -48,7 +48,7 @@ class Model:
         output = (
             f"Model: {self.model}",
             f"Time Stamp: {self.time_stamp}",
-            f"Testing Score: {100*self.score():.3f}%",
+            f"Testing Score: {100 * self.score():.3f}%",
             f"Total Row Count: {self.total}",
             f"Training Row Count: {self.total_trained}",
             f"Testing Row Count: {self.total_tested}",
